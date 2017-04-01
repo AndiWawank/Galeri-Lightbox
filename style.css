@@ -1,0 +1,23 @@
+@font-face{
+	font-family: 'GALERI SAYA';
+	src: url(fonts/Existence-Light.otf);
+}
+body{
+	background-color: #f2f2f2
+}
+h1{
+	font-family: 'GALERI SAYA';
+	font-size: 40px;
+	font-weight: bold;
+}
+.galeri{
+	background-color: #fff;
+	border-radius: 10px;
+	
+}
+.galeri img{
+	padding: 10px;
+}
+hr{
+	border-color: #999;
+}
